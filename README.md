@@ -1,4 +1,4 @@
-# Premier Model (Old Version) – Responsive HTML & CSS Clone
+# Premier Model  – Responsive HTML & CSS Clone
 
 This is a **fully responsive** clone of the *old version* of the Premier Model Management website. Built using only **HTML and CSS**, this project is part of my web development practice and focuses on creating clean, responsive layouts without any frameworks or JavaScript.
 
