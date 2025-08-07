@@ -141,7 +141,7 @@ body::-webkit-scrollbar-thumb {
 #overlay {
     position: absolute;
     bottom: 0;
-    height: 50%;
+    height: 45%;
     width: 100%;
     z-index: 2;
     padding: 3vw;
